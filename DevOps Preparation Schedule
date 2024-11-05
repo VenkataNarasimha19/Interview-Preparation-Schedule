@@ -1,0 +1,107 @@
+Revised 4-Week Comprehensive DevOps Preparation Schedule
+
+Week 1: Foundations of DevOps & Cloud
+Daily Schedule (Weekdays)
+6:00 am - 7:00 am: Review DevOps Concepts and AWS Fundamentals (1 hour)
+7:00 am - 8:00 am: Hands-On Practice with Git and Basic CI/CD Concepts (1 hour)
+8:00 am - 8:30 am: Fresh-Up for the Day
+8:30 am - 9:00 am: Commute to Work
+
+During Work Hours (10:00 am - 4:00 pm)
+10:00 am - 11:00 am: Deep Dive into Git (1 hour)
+11:00 am - 11:15 am: Break
+11:15 am - 12:15 pm: Hands-On Lab: Create a Git Repository and Practice Branching (1 hour)
+12:15 pm - 1:00 pm: Lunch Break
+1:00 pm - 1:30 pm: English Communication Practice (30 mins)
+1:30 pm - 2:30 pm: Mock Interview Practice (Technical Questions) (1 hour)
+2:30 pm - 3:30 pm: Documentation and Summarization of Learned Concepts (1 hour)
+
+Evening Schedule (Post-Work)
+4:30 pm - 6:00 pm: Commute Home
+6:00 pm - 7:00 pm: Rest or Dinner
+7:00 pm - 8:00 pm: Review & Reflect on the Day’s Learning (1 hour)
+8:00 pm - 9:00 pm: Watch a Short Video or Read an Article in English (1 hour)
+9:00 pm - 10:00 pm: Free Time or Light Review of Concepts
+
+Weekend Focus:
+Saturday: Review everything learned in Week 1. Complete a mini-project using Git for version control.
+Sunday: Free day to rest or catch up on any missed topics.
+
+Week 2: CI/CD Tools and Containerization
+Daily Schedule (Weekdays)
+6:00 am - 7:00 am: Review Jenkins, Its Architecture, and Plugins (1 hour)
+7:00 am - 8:00 am: Hands-On Practice with Jenkins (Set Up a Simple Pipeline) (1 hour)
+8:00 am - 8:30 am: Fresh-Up for the Day
+8:30 am - 9:00 am: Commute to Work
+
+During Work Hours (10:00 am - 4:00 pm)
+10:00 am - 11:00 am: Deep Dive into Docker (1 hour)
+11:00 am - 11:15 am: Break
+11:15 am - 12:15 pm: Hands-On Lab: Create and Run Docker Containers (1 hour)
+12:15 pm - 1:00 pm: Lunch Break
+1:00 pm - 1:30 pm: English Communication Practice (30 mins)
+1:30 pm - 2:30 pm: Mock Interview Practice (Behavioral Questions) (1 hour)
+2:30 pm - 3:30 pm: Documentation and Summarization of Learned Concepts (1 hour)
+
+Evening Schedule (Post-Work)
+4:30 pm - 6:00 pm: Commute Home
+6:00 pm - 7:00 pm: Rest or Dinner
+7:00 pm - 8:00 pm: Review & Reflect on the Day’s Learning (1 hour)
+8:00 pm - 9:00 pm: Watch a Short Video or Read an Article in English (1 hour)
+9:00 pm - 10:00 pm: Free Time or Light Review of Concepts
+
+Weekend Focus:
+Saturday: Build a CI/CD pipeline using Jenkins and Docker together.
+Sunday: Review Week 2 concepts and refine your English communication skills.
+
+Week 3: Infrastructure as Code and Cloud Services
+Daily Schedule (Weekdays)
+6:00 am - 7:00 am: Review Terraform Concepts and Its Architecture (1 hour)
+7:00 am - 8:00 am: Hands-On Practice Writing Terraform Scripts (1 hour)
+8:00 am - 8:30 am: Fresh-Up for the Day
+8:30 am - 9:00 am: Commute to Work
+
+During Work Hours (10:00 am - 4:00 pm)
+10:00 am - 11:00 am: Deep Dive into AWS Services (EC2, S3, IAM) (1 hour)
+11:00 am - 11:15 am: Break
+11:15 am - 12:15 pm: Hands-On Lab: Create an EC2 Instance and Manage IAM Roles (1 hour)
+12:15 pm - 1:00 pm: Lunch Break
+1:00 pm - 1:30 pm: English Communication Practice (30 mins)
+1:30 pm - 2:30 pm: Mock Interview Practice (Technical Questions) (1 hour)
+2:30 pm - 3:30 pm: Documentation and Summarization of Learned Concepts (1 hour)
+
+Evening Schedule (Post-Work)
+4:30 pm - 6:00 pm: Commute Home
+6:00 pm - 7:00 pm: Rest or Dinner
+7:00 pm - 8:00 pm: Review & Reflect on the Day’s Learning (1 hour)
+8:00 pm - 9:00 pm: Watch a Short Video or Read an Article in English (1 hour)
+9:00 pm - 10:00 pm: Free Time or Light Review of Concepts
+
+Weekend Focus:
+Saturday: Create an end-to-end infrastructure setup using Terraform and AWS.
+Sunday: Review Week 3 concepts and practice answering behavioral questions.
+
+Week 4: Advanced Topics and Interview Preparation
+Daily Schedule (Weekdays)
+6:00 am - 7:00 am: Review Kubernetes Basics and Its Architecture (1 hour)
+7:00 am - 8:00 am: Hands-On Practice with Kubernetes (Set Up a Simple Cluster) (1 hour)
+8:00 am - 8:30 am: Fresh-Up for the Day
+8:30 am - 9:00 am: Commute to Work
+
+During Work Hours (10:00 am - 4:00 pm)
+10:00 am - 11:00 am: Review Configuration Management Tools (Ansible Basics) (1 hour)
+11:00 am - 11:15 am: Break
+11:15 am - 12:15 pm: Hands-On Lab: Write a Simple Ansible Playbook (1 hour)
+12:15 pm - 1:00 pm: Lunch Break
+1:00 pm - 1:30 pm: English Communication Practice (30 mins)
+1:30 pm - 2:30 pm: Final Mock Interview Practice (Comprehensive) (1 hour)
+2:30 pm - 3:30 pm: Review and Finalize Documentation of All Learned Concepts (1 hour)
+
+Evening Schedule (Post-Work)
+4:30 pm - 6:00 pm: Commute Home
+6:00 pm - 7:00 pm: Rest or Dinner
+7:00 pm - 8:00 pm: Review & Reflect on the Day’s Learning (1 hour)
+8:00 pm - 9:00 pm: Watch a Short Video or Read an Article in English (1 hour)
+9:00 pm - 10:00 pm: Free Time or Light Review of Concepts
+
+
